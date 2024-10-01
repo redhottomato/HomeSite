@@ -1,0 +1,48 @@
+{
+    "article": {
+        "header": "The Impact of Social Media on Modern Society",
+        "date": "2024-07-17",
+        "images": [
+        {
+            "url": "./images/firefox_icon.png",
+            "alt": "An image showing social media icons"
+        },
+        {
+            "url": "./images/flameshot_icon_screen.png",
+            "alt": "A person using a smartphone"
+        }, 
+        {
+            "url": "./images/myUbuntu_start_icon.png",
+            "alt": "A person using Ubuntu"
+        },
+        {
+            "url": "./images/test.png",
+            "alt": "A person using a tablet"
+        }
+        ],
+        "sections": [
+        {
+            "title": "Introduction",
+            "content": "<p>Social media has revolutionized the way we communicate, share information, and interact with the world. This article explores the profound impact it has had on modern society.</p>"
+        },
+        {
+            "title": "Positive Impacts",
+            "content": "<p>Social media has numerous positive impacts, including connecting people, spreading information quickly, and providing a platform for voices that might not otherwise be heard.</p>"
+        },
+        {
+            "title": "Negative Impacts",
+            "content": "<p>Despite its benefits, social media also has negative impacts such as spreading misinformation, cyberbullying, and contributing to mental health issues.</p>"
+        },
+        {
+            "title": "Conclusion",
+            "content": "<p>In conclusion, while social media has transformed society in many positive ways, it is important to be aware of and address its negative aspects.</p>"
+        }
+        ],
+        "tags": ["social media", "technology", "society"],
+        "socialMediaLinks": {
+        "twitter": "https://twitter.com/example",
+        "instagram": "https://instagram.com/example",
+        "youtube": "https://youtube.com/example"
+        }
+    }
+}

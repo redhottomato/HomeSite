@@ -1,0 +1,33 @@
+{
+    "projects": 
+    [
+        {
+            "title": "Personal Countdown Timer",
+            "description": "I made a Personal Countdown Timer with Javascript",
+            "technologies": ["html", "css", "javascript"],
+            "link": "https://myportfolio.com",
+            "image": "images/portfolio.png"
+        },
+        {
+            "title": "Play my Guess Number game",
+            "description": "An easy Guess Number game with Javascript",
+            "technologies": ["react", "nodejs", "mongodb"],
+            "link": "https://myecommerce.com",
+            "image": "images/ecommerce.png"
+        },
+        {
+            "title": "Task Management App",
+            "description": "A task management app to track and organize your daily to-dos.",
+            "technologies": ["flutter", "firebase", "dart"],
+            "link": "https://mytaskapp.com",
+            "image": "images/taskmanager.png"
+        },
+        {
+            "title": "AI Chatbot",
+            "description": "An AI-powered chatbot that provides customer support for an e-commerce store.",
+            "technologies": ["python", "tensorflow", "flask"],
+            "link": "https://mychatbot.com",
+            "image": "images/chatbot.png"
+        }
+    ]
+}
