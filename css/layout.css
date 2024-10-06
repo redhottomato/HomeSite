@@ -15,10 +15,8 @@ body {
 
 header {
     display: flex;
-    text-indent: 100px;
     justify-content: center;
-    height: 100px;
-    text-align: left;
+    height: 140px;
     background: #001d3d;
 }
 
@@ -33,9 +31,9 @@ header {
 .topMenu {
     position: relative;
     width: 1200px;
-    height: 100px;
-    
-    line-height: 100px;
+    height: 140px;
+    text-align: center;;
+    line-height: 140px;
     
     }
 
@@ -93,6 +91,9 @@ footer {
     width: 100%;
     background: #111111;
     min-height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
 }
 
 .news_layer {
